@@ -1,0 +1,7 @@
+# Ignore Arduino IDE temporary build folders
+/build/
+/bin/
+
+# Ignore local configuration and sensitive files
+*.local.properties
+.DS_Store
